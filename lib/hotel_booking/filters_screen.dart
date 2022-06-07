@@ -1,13 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-
-
-
 import 'hotel_app_theme.dart';
 import 'model/popular_filter_list.dart';
 import 'range_slider_view.dart';
-import 'slider_view.dart';class FiltersScreen extends StatefulWidget {
+import 'slider_view.dart';
+
+class FiltersScreen extends StatefulWidget {
   @override
   _FiltersScreenState createState() => _FiltersScreenState();
 }
